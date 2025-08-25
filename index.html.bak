@@ -1,0 +1,718 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>Memories4Eternity</title>
+    <meta name="description" content="Memories4Eternity">
+    <meta name="keywords" content="Wedding, Hashtag Wedding">
+    <link rel="shortcut icon" href="assets/img/favicon.ico">
+    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.jpg">
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/apple-touch-icon-72x72.jpg">
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/apple-touch-icon-114x114.jpg">
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="assets/css/font-lineicons.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="assets/css/animate.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="assets/css/toastr.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css" media="all" />
+    
+    <!--[if lt IE 9]>
+        <script src="assets/js/html5.js"></script>
+        <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body id="landing-page">
+
+    <!-- Preloader -->
+    <div id="mask">
+        <div id="loader"></div>
+    </div>
+        
+    <header>
+        <nav class="navigation navigation-header">
+            <div class="container">
+                <div class="navigation-brand">
+                    <div class="brand-logo">
+						<a href="index.html" class="logo"></a>
+						<span class="sr-only">#Memories4Eternity</span>
+                    </div>
+                    <button class="navigation-toggle visible-xs" type="button" data-toggle="dropdown" data-target=".navigation-navbar">
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="navigation-navbar">
+                    <ul class="navigation-bar navigation-bar-left">
+                        <li class="active"><a href="#hero"><b>Home</b></a></li>
+                        <li><a href="#about"><b>Package</b></a></li>
+                        <li><a href="#features"><b>Features</b></a></li>
+                        <li><a href="#ourproducts"><b>Our Product</b></a></li>
+                        <li><a href="#price"><b>Prices</b></a></li>                        
+                        <li><a href="#guarantee"><b>Contacts</b></a></li>
+                    </ul>
+                    <ul class="navigation-bar navigation-bar-right">
+                     <li><a href="https://api.whatsapp.com/send?phone=919891865050"><b>Whatsapp us +919891865050</b></a></li>
+                        </ul>  
+                </div>
+            </div>
+        </nav>
+    </header>
+    
+	<div id="hero" class="static-header register-version light clearfix">
+
+        <div class="text-heading">
+            <h2 class="animated hiding" data-animation="bounceInDown" data-delay="0"><b><i>A Moment Lasts All of a Second, But The <span class="highlight">Memories</span> Stays Till <span class="highlight">Eternity!</span></h2></b></i>
+            <h2 class="animated hiding" data-animation="fadeInDown" data-delay="700"><b>Do not wait - Order Now !!!</b></h2>
+        </div>
+		
+		<div class="container">
+			<div class="signup-wrapper animated hiding" data-animation="bounceInUp" data-delay="0">
+				<div class="row">
+						<form class="form-inline form-register form-register-small" method="post" action="signup.php">
+						
+							<div class="form-group">
+								<input size="30" type="text" class="form-control required" name="fullname" id="fullname" placeholder="Your name">
+							</div>
+							
+							<div class="form-group">
+								<input size="25" type="text" class="form-control required" name="Phone" id="email" placeholder="Phone">
+							</div>
+							<div class="form-group submit-wrap">
+								<input type="hidden" name="small-form"/>
+								<button type="submit" class="btn btn-primary btn-md">Get in touch with us</button>
+							</div>
+						</form>
+				</div>
+			</div>
+		</div>
+		
+    </div>
+    
+    <div id="clients">
+        <div class="container">
+            <ul class="list-inline logos">
+                <h3 class="animated hiding" data-animation="fadeInDown" data-delay="500"><b>Packages in stock !!!</b></p></h3>
+                <li><img class="animated hiding" data-animation="fadeInUp" data-delay="800" src="assets/img/logos/logo-5.png" alt="" /></li>
+            </ul>
+        </div>
+    </div>
+    
+    <a id="showHere"></a>
+    
+	<section id="about" class="section dark">
+        <div class="container">
+		
+            <ul class="nav nav-tabs alt">
+                <li><a href="#party-tab-alt" data-toggle="tab">#Party</a></li>
+                <li class="active"><a href="#first-tab-alt" data-toggle="tab">#Memory</a></li>
+                <li><a href="#second-tab-alt" data-toggle="tab">#Memory Plus</a></li>
+                <li><a href="#third-tab-alt" data-toggle="tab">#Premium</a></li>
+                <li><a href="#premiumplus-tab-alt" data-toggle="tab">#Premium Plus</a></li>
+            </ul>
+                
+            <div class="tab-content alt">
+                <div class="tab-pane" id="party-tab-alt">
+                    <div class="section-content row">                
+                         <div class="col-sm-6 pull-right animated hiding" data-animation="fadeInRight">
+                             <img src="assets/img/features/people.jpg" class="img-responsive pull-right" alt="process 2" />
+                         </div>
+                         <div class="col-sm-6 animated hiding" data-animation="fadeInLeft">
+                             <br/><br/>
+                             <article class="center">
+                                 <h3><span class="highlight">Party</span> Package</h3>
+                                 <div class="sub-title"><b>Inclusion: Wish Board,&nbsp; Heart Drop Frame,&nbsp; 2 Metallic and Fineliner Color Pens </b></div>
+                                 <p>This is suitable package for Small Gathring party</b><br/>Kitty Party, Inauguration Party, Farewell Party, Bhajan Sandhya, Ladies Sangeet, Annual Function, Corporate Party, Birthday Party, Fresher Party, Pool Party, House Party, Bachelors Party, Cocktail Party, Christmas Party, 
+                                    Fastival Function, New Year Party, Reunion Party etc.</p>
+                                <a href="#" class="btn btn-secondary animated hiding" data-animation="bounceIn" data-delay="700">Purchase This Package</a>
+                                 </article>
+                         </div>
+             </div>
+         </div>
+
+                    <div class="tab-pane active" id="first-tab-alt">
+                        <div class="section-content row">        
+                                    <div class="col-sm-6 animated hiding" data-animation="fadeInLeft">
+                                        <img src="assets/img/features/1.jpg" class="img-responsive" alt="process 3" />
+                                    </div>
+                                    <div class="col-sm-6 animated hiding" data-animation="fadeInRight">
+                                        <br/>
+                                        <article class="center">
+                                            <h3><span class="highlight">Memory</span> Package</h3>
+                                            <div class="sub-title"><b>Inclusion: &nbsp; Wish Board,&nbsp; Heart Drop Frame, &nbsp; Function Web Application, <br>6 Hashtag Frames, 6 Barcode Frame, 2 Metallic Pens, 2 Fineliner Color Pens</b></div>
+                                            <p>This is suitable package for Hashtag party<br/>Anniversary Function, Baby Shower, Silver Anniversary, Golden Anniversary, 100th Birthday, Wedding Function, Birthday Party, Fresher Party, Reunion Party.</p>
+                                            <a href="#" class="btn btn-secondary animated hiding" data-animation="bounceIn" data-delay="700">Purchase This Package</a>
+                                            </article>
+                                    </div>
+                        </div>
+                    </div>
+				
+                <div class="tab-pane" id="second-tab-alt">
+                           <div class="section-content row">                
+								<div class="col-sm-6 pull-right animated hiding" data-animation="fadeInRight">
+									<img src="assets/img/features/comingsoon.jpg" class="img-responsive pull-right" alt="process 2" />
+								</div>
+								<div class="col-sm-6 animated hiding" data-animation="fadeInLeft">
+									<br/><br/>
+									<article class="center">
+										<h3><span class="highlight">Memory Plus</span> Package</h3>
+										<div class="sub-title"><b>Inclusion: &nbsp; Wish Board,&nbsp; Heart Drop Frame, &nbsp; Function Web Application, <br>6 Hashtag Frames, 6 Barcode Frame, 2 Metallic Pens, 2 Fineliner Color Pens<br/>Acrylic Mirror Hashtag</b></div>
+										<p>This is suitable package for Hashtag party<br/>Anniversary Function, Baby Shower, Silver Anniversary, Golden Anniversary, 100th Birthday, Wedding Function, Birthday Party, Fresher Party, Reunion Party.</p>
+                                        <a href="#" class="btn btn-secondary animated hiding" data-animation="bounceIn" data-delay="700">Purchase This Package</a>
+                                    </article>
+								</div>
+					</div>
+                </div>
+                <div class="tab-pane" id="premiumplus-tab-alt">
+                    <div class="section-content row">                
+                         <div class="col-sm-6 pull-right animated hiding" data-animation="fadeInRight">
+                             <img src="assets/img/features/comingsoon.jpg" class="img-responsive pull-right" alt="process 2" />
+                         </div>
+                         <div class="col-sm-6 animated hiding" data-animation="fadeInLeft">
+                             <br/><br/>
+                             <article class="center">
+                                 <h3><span class="highlight">Premium Plus</span> Package</h3>
+                                 <div class="sub-title"><b>Inclusion: &nbsp; Wish Board,&nbsp; Heart Drop Frame, &nbsp; Illustrated Web Application, <br>10 Hashtag Frames, 10 Barcode Frame, 3 Metallic Pens, 3 Fineliner Color Pens<br/>Acrylic Mirror Hashtag, Love Agreement, 100 Wedding Advice Card with Frame, Wedding Plates, 480 Customized Envelope seal </b></div>
+                                 <p>This package Exclusive Design for Hashtag Wedding and Ring Ceremony Function<br/></p>
+                                 <a href="#" class="btn btn-secondary animated hiding" data-animation="bounceIn" data-delay="700">Purchase This Package</a>
+                                </article>
+                         </div>
+                       </div>
+                  </div>
+
+                <div class="tab-pane" id="third-tab-alt">
+                        <div class="section-content row">        
+                                    <div class="col-sm-6 animated hiding" data-animation="fadeInLeft">
+                                      <img src="assets/img/features/comingsoon.jpg" class="img-responsive" alt="process 3" />
+                                    </div>
+                                    <div class="col-sm-6 animated hiding" data-animation="fadeInRight">
+                                        <br/>
+                                        <article class="center">
+                                            <h3><span class="highlight">Premium</span> Package</h3>
+                                            <div class="sub-title"><b>Inclusion: &nbsp; Wish Board,&nbsp; Heart Drop Frame, &nbsp; Exclusive Web Application, <br>10 Hashtag Frames, 10 Barcode Frame, 3 Metallic Pens, 3 Fineliner Color Pens<br/>Love Agreement, 50 Wedding Advice Card without Frame, <br/> Wedding Plates, 240 Customized Envelope seal </b></div>
+                                            <p>This package Exclusive Design for Hashtag Wedding and Ring Ceremony Function<br/></p>
+                                            <a href="#" class="btn btn-secondary animated hiding" data-animation="bounceIn" data-delay="700">Purchase This Package</a>
+                                            </article>
+                                    </div>
+                        </div>
+                    </div>
+                    </article>
+						</div>
+					</div>
+               </div>
+    </section>
+    
+    <hr class="no-margin" />
+    
+    <section id="process" class="section dark">
+        <div class="container">
+            <div class="section-content row">                
+                <div class="col-sm-6 pull-right animated hiding" data-animation="fadeInRight">
+                    <img src="assets/img/features/heartdrop.png" class="img-responsive" alt="process 2" />
+                </div>
+                <div class="col-sm-6 animated hiding" data-animation="fadeInLeft">
+					<br/><br/>
+                    <article>
+                        <h3><span class="highlight">Heart Drop</span> Frame</h3>
+                        <div class="sub-title"> We truly understand how important this day is for you and how important for you to make everything perfect. You definitely want to keep every moment of the day forever with you and not to even miss a minute.
+                            <br/><br/>We respect the emotions of your near and dear ones. Our Heart Drop Frame will decorate your function and your home and give your loved ones an opportunity to leave their names on wooden hearts. This beautiful frame can be keep on the stand as well as can be wall mount to become a part of your decor.</p>
+                            <br/>
+                            <a href="Heartdrop.html" class="btn btn-secondary btn-block">Product Specification</a>  
+                        </div>
+                        </article>
+                </div>
+                
+                <hr class="clearfix" />
+                
+                <div class="col-sm-6 animated hiding" data-animation="fadeInLeft">
+                    <img src="assets/img/features/wishboard.jpg" class="img-responsive" alt="process 3" />
+                </div>
+                <div class="col-sm-6 animated hiding" data-animation="fadeInRight">
+					<br/><br/>
+                    <article>
+                        <h3><span class="highlight">Wish</span> board</h3>
+                        <div class="sub-title">This is an awesome way to keep memories of your dream day with your guests, friends and family members for eternity. This is an amazing and unique wish board to keep guest feeling. This is one of the most complimented items of the day! 
+                        <br/><br/>Wish Board gives you the wall hanging option in your home rather than a gift stuffed in storage. Our Wish Board will decorate your function as we as your home and give your loved ones an opportunity to express their feelings and leave a message on the board and You will be able to keep these warm words for the rest of your life.</div>
+                        <br/>
+                        <a href="Wishboard.html" class="btn btn-secondary btn-block">Product Specification</a>     
+                    </article>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+    
+    <section id="features" class="section inverted">
+        <div class="container">
+            <div class="section-content">
+                <div id="featuredTab">
+                    <ul class="list-unstyled animated hiding" data-animation="fadeInRight">
+                      <li class="active">
+                          <a href="#webapps" data-toggle="tab">
+                              <div class="tab-info">
+                                  <div class="tab-title">Web Application</div>
+                                  <div class="tab-desc">A virtual place to find info like venue, date, time etc. Use to send e-invitation and notify people about any changes in last moment. Central hub to keep Pre & Post wedding shoot and other info at one place to share with loved one forever.</div>
+                              </div>
+                              <!--<div class="tab-icon"><span class="icon icon-multimedia-20"></span></div>-->
+                          </a>
+                      </li>
+                      <li>
+                          <a href="#hashtags" data-toggle="tab">
+                              <div class="tab-info">
+                                  <div class="tab-title">Acrylic Mirror Hashtag</div>
+                                  <div class="tab-desc">Grace your Selfie Point with your unique Couple Hashtag and Tell Loved ones to help you to capture the Love</div>
+                              </div>
+                              <!--<div class="tab-icon"><span class="icon icon-seo-icons-27"></span></div>-->
+                          </a>
+                      </li>
+                      <li>
+                          <a href="#wedadvice" data-toggle="tab">
+                              <div class="tab-info">
+                                  <div class="tab-title">Wedding Advice</div>
+                                  <div class="tab-desc">Cards out with funny suggestions advice hopes and wishes, for the couple.<br/> Collect all of the advice cards and look back on years later!</div>
+                              </div>
+                              <!-- <div class="tab-icon"><span class="icon icon-seo-icons-28"></span></div>-->
+                          </a>
+                      </li>
+                    </ul>
+                    
+                    <div class="tab-content animated hiding" data-animation="fadeInLeft">
+                      <div class="tab-pane in active" id="webapps"><img src="assets/img/features/webapp.png" class="img-responsive animated hiding" data-animation="fadeInLeft" alt="macbook" /></div>
+                      <div class="tab-pane" id="hashtags"><img src="assets/img/features/rich_features_2.png" class="img-responsive animated hiding" data-animation="fadeInLeft" alt="macbook" /></div>
+                      <div class="tab-pane" id="wedadvice"><img src="assets/img/features/rich_features_3.png" class="img-responsive animated hiding" data-animation="fadeInLeft" alt="macbook" /></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+	<section id="ourproducts"></section>
+	<section id="features-list" class="section dark">
+            <div class="container animated hiding" data-animation="fadeInDown">
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <article class="center">	
+					<i class="icon icon-badges-votes-13 icon-active"></i>
+                    <span class="h7">Heart Drop Frame</span>
+                    <p class="thin">Decore your home with Wall Mount or stand on side table always remember who came to bless you.</p>
+                </article>
+            </div>                       
+			<div class="col-md-3 col-sm-6 col-xs-12">
+                <article class="center">	
+					<i class="icon icon-chat-messages-04 icon-active"></i>
+                    <span class="h7">Wish Board</span>
+                    <p class="thin">Mount on wall and keep everyone well wishes till eternity. A unique way to express your feelings</p>
+                </article>
+            </div>             
+			<div class="col-md-3 col-sm-6 col-xs-12">
+                <article class="center">	
+					<i class="icon icon-multimedia-16 icon-active"></i>
+                    <span class="h7">Web Application</span>
+                    <p class="thin">Manage and organize information at one place, Share your Pre-Post wedding photos and videos</p>
+                </article>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <article class="center">	
+					<i class="icon icon-multimedia-08 icon-active"></i>
+                    <span class="h7">Fastival/Event Gifting</span>
+                    <p class="thin">Because every celebration deserves a sparkle,Get Customised Gifting, Return Gift, Voucher Gift. </p>
+                </article>
+            </div>               
+			<div class="col-md-3 col-sm-6 col-xs-12">
+                <article class="center">	
+					<i class="icon icon-shopping-20 icon-active"></i>
+                    <span class="h7">GET Help to Plan your Event</span>
+                    <p class="thin">We take care of every detail, so you can relax, enjoy, and truly celebrate your event.</p>
+                </article>
+            </div>             
+			<div class="col-md-3 col-sm-6 col-xs-12">
+                <article class="center">	
+					<i class="icon icon-graphic-design-13 icon-active"></i>
+                    <span class="h7">Decoration</span>
+                    <p class="thin">We design stunning decorations that bring your event to life, leaving lasting impressions on every guest.</p>
+                </article>
+            </div>             
+			<div class="col-md-3 col-sm-6 col-xs-12">
+                <article class="center">	
+					<i class="icon icon-education-science-07 icon-active"></i>
+                    <span class="h7">Consultancy</span>
+                    <p class="thin"> Get expert consultancy for negotiating with vendors, strategic planning, seamless coordination, and flawless event execution </p>
+                </article>
+            </div>             
+			<div class="col-md-3 col-sm-6 col-xs-12">
+                <article class="center">	
+					<i class="icon icon-faces-users-04 icon-active"></i>
+                    <span class="h7">Photography & Videography Coordination</span>
+                    <p class="thin">Your trusted consultants for planning, photography, videography coordination, vendor negotiations, and end-to-end event management.</p>
+                </article>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <article class="center">	
+					<i class="icon icon-office-30 icon-active"></i>
+                    <span class="h7">Catering & Sweets Arrangement Guidance</span>
+                    <p class="thin">Specialized consultancy for catering menus and sweets arrangements, ensuring perfect flavors complement your celebration’s theme.</p>
+                </article>
+            </div>             
+			<div class="col-md-3 col-sm-6 col-xs-12">
+                <article class="center">	
+                    <i class="icon icon-food-02 icon-active"></i>
+                    <i class="icon icon-food-07 icon-active"></i>
+                    <i class="icon icon-food-01 icon-active"></i>
+                    <span class="h7">Venue Selection & Booking Assistance</span>
+                    <p class="thin">Expert consultancy offering venue selection and booking assistance to ensure perfect settings for every celebration.</p>
+                </article>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <article class="center">	
+					<i class="icon icon-office-11 icon-active"></i>
+                    <span class="h7">Corporate Events & Celebrations</span>
+                    <p class="thin">From corporate events to Diwali and annual gifting, we ensure memorable, thoughtful, and professional execution.</p>
+                </article>
+            </div>   
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <article class="center">	
+					<i class="icon icon-graphic-design-32 icon-active"></i>
+                    <span class="h7">Add-On Concierge Services</span>
+                    <p class="thin">Comprehensive concierge services including travel, luxury transport, makeup, stylists, mehendi, and décor artist coordination.</p>
+                </article>
+            </div>                
+        </div>
+    </section>	
+	
+	<section id="newsletter" class="long-block light">
+        <div class="container center">
+            <div class="col-sm-12 col-lg-5">
+                <article>
+                    <h2><strong>GET</strong> Exclusive Discount </h2>
+                     <p class="thin">No spam - Only Exclusive offers during season!!</p>
+                </article>
+            </div>
+            <div class="col-sm-12 col-lg-7">
+			 <form id="subscribe" class="form" action="<?=$_SERVER['PHP_SELF']; ?>" method="post">
+            <div class="form-group form-inline">
+              <input size="15" type="text" class="form-control required" id="NewsletterName" name="NewsletterName" placeholder="Your name" /> 
+              <input size="25" type="email" class="form-control required" id="NewsletterEmail" name="NewsletterEmail" placeholder="your@email.com" /> 
+			  <input type="submit" class="btn btn-default" value="SUBSCRIBE" />
+			  <span id="response">
+				<? require_once('assets/mailchimp/inc/store-address.php'); if($_GET['submit']){ echo storeAddress(); } ?>
+			  </span>
+            </div>
+          </form>
+            </div>
+			
+			
+			
+        </div>
+    </section>
+	
+    <section id="price" class="section dark">
+        <div class="container">
+            <div class="section-header animated hiding" data-animation="fadeInDown">
+                <h2>PRODUCT <span class="highlight">PACKAGES</span></h2>
+                <div class="sub-heading">
+                    Exclusive Package available on request which gives you an opportunity to design your package. Customized the product Dimentions, color etc.  
+                    <br />Get in touch with our friendly Executive to know more.
+                </div>
+            </div>
+            <div class="section-content row">
+            
+                <div class="col-sm-4">
+                    <div class="package-column animated hiding" data-animation="flipInY" data-delay="100">
+                        <div class="package-title">Party</div>
+                        <div class="package-price">
+                            <div class="price"><span class="currency">₹</span>9999</div>
+                            <div class="period">Delivery time upto 3-5 Working days</div>
+                        </div>
+                        <div class="package-detail">
+                                <a href="#" class="btn btn-secondary btn-block">Order Now</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-4">
+                    <div class="package-column animated hiding" data-animation="flipInY" data-delay="200">
+                        <div class="package-title">Memory</div>
+                        <div class="package-price">
+                            <div class="price"><span class="currency">₹</span>14999</div>
+                            <div class="period">Delivery time upto 5-7 Working days</div>
+                        </div>
+                        <div class="package-detail">
+                            <a href="#" class="btn btn-secondary btn-block">Order Now</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-4">
+                    <div class="package-column animated hiding" data-animation="flipInY" data-delay="300">
+                        <div class="package-title">Memory Plus</div>
+                        <div class="package-price">
+                            <div class="price"><span class="currency">₹</span>19999</div>
+                            <div class="period">Delivery time upto 10-14 Working days</div>
+                        </div>
+                        <div class="package-detail">
+                            <a href="#" class="btn btn-secondary btn-block">Order Now</a>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <div class="col-sm-4">
+                    <div class="package-column animated hiding" data-animation="flipInY" data-delay="400">
+                        <div class="package-title">Premium</div>
+                        <div class="package-price">
+                            <div class="price"><span class="currency">₹</span>34999</div>
+                            <div class="period">Delivery time upto 15-20 Working days</div>
+                        </div>
+                        <div class="package-detail">
+                            <a href="#" class="btn btn-secondary btn-block">Order Now</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-sm-4">
+                    <div class="package-column animated hiding" data-animation="flipInY" data-delay="500">
+                        <div class="package-title">Premium Plus</div>
+                        <div class="package-price">
+                            <div class="price"><span class="currency">₹</span>49999</div>
+                            <div class="period">Delivery time upto 15-20 Working days</div>
+                        </div>
+                        <div class="package-detail">
+                            <a href="#" class="btn btn-secondary btn-block">Order Now</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-4">
+                    <div class="package-column animated hiding" data-animation="flipInY" data-delay="600">
+                        <div class="package-title">PLANING GUIDANCE</div>
+                        <div class="package-price">
+                            <div class="price"><span class="currency">₹ Ask Us</span></div>
+                            <div class="period">Wedding Planing, Event Planing, Gifting	</div>
+                        </div>
+                        <div class="package-detail">
+                            <a href="#" class="btn btn-secondary btn-block">Customized Your Own</a>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+	
+    <section id="awards" class="section dark">
+        <div class="container">
+            <div class="section-header animated hiding center" data-animation="fadeInDown">
+                    <h2>3 EASY STEPS 
+                    <p>Order our  Package</p></h2>
+                    <div class="sub-heading">
+                        Due to high in demand Package available on advance Order
+                        <br />
+                    </div>
+                </div>
+                <div class="section-content row">
+                    <div class="col-sm-4">
+                        <article class="text-center animated hiding" data-animation="fadeInLeft" data-delay="0">
+                            <i class="howitworks icon icon-shopping-04 icon-active"></i>
+                            <span class="h7">To Place Order</span>
+                            <p class="thin" >Ask your Benquet about Memories4Eternity.<br />Get in touch with us via whataspp<br />Call Us</p>
+                        </article>
+                        <!--<span class="icon icon-arrows-04"></span>-->
+                    </div>
+                    <div class="col-sm-4">
+                        <article class="text-center animated hiding" data-animation="fadeInLeft" data-delay="400">
+                            <i class="howitworks icon icon-seo-icons-03 icon-active"></i>
+                            <span class="h7">We Prepare Order</span>
+                            <p class="thin" >After Receving your Order.<br />Exlusive Design for You<br />Team will take upto 5-15 days.</p>
+                        </article>
+                        <!--<span class="icon icon-arrows-04"></span>-->
+                    </div>
+                    <div class="col-sm-4">
+                        <article class="text-center animated hiding" data-animation="fadeInLeft" data-delay="800">
+                            <i class="howitworks icon icon-seo-icons-05 icon-active"></i>
+                            <span class="h7">You Receive Order</span>
+                            <p class="thin" >Order will be deliverd at your doorstep <br>Do you Love our package<br />Do not forget to claim Free Gift<br /></p>
+                        </article>
+                    </div>
+                </div>
+                <br/>
+                <br/>
+                </div>
+        </div>
+    </section> 
+
+    
+    <section id="feedback" class="section light">
+        <div class="container">
+            <div class="section-header animated hiding" data-animation="fadeInDown">
+                <h2>WHAT <span class="highlight">CLIENTS</span> SAY</h2>
+            </div>
+            <div class="section-content">
+			
+				<!-- BEGIN SLIDER CONTENT -->
+				<div class="col-sm-10 col-sm-offset-1">
+					<div class="flexslider testimonials-slider center animated hiding" data-animation="fadeInTop">	
+						<ul class="slides">
+							<li>
+								<div class="testimonial resp-center clearfix">
+									<blockquote>
+										<i>Team <span class="highlight">"Memories 4 Eternity"</span> Thank you so much for everything, We are so happy because of you. You guys truly deserve hats off with your ideas and Yes we are THANKFUL and Happy for what has been unanimously decided you made THE BEST 1st Baby Birthday EVER. I will live this moment on every single day now because of the team Memories 4 Eternity. Your Product grace my badroom wall and side table. My Little champ website looks awesome and lovely</i>
+									</blockquote>
+								</div>
+							</li>
+							<li>
+								<div class="testimonial resp-center clearfix">
+									<blockquote>
+										<i>“Amazing Amazing Amazing” So happy to see something really unique something really not like everyone have. You guys did a wonderful job and your team explained every well about each product. I love my wedding website, Got really funny wedding advice ;) every one expressed their feeling on wish board, Heart Drop frame is amazing. I cannot thank you enough and would highly recommend your worthful and valuable packages and looking forward to use this in my brother and loved one wedding in future <br/> Team <span class="highlight">"Memories 4 Eternity"</span> Rocks!!!!!</i>
+									</blockquote>
+								</div>
+							</li>
+							<li>
+								<div class="testimonial resp-center clearfix">
+									<blockquote>
+										<i>“Awesome, Outstanding, Unique these words doesn’t seem to be enough for bringing the dreams into reality for a magical hashtag wedding. It was beyond words. Your Product are absolutely Premium, awesome and unique. Premium Plus package change my wedding into dream world everyone is taking about our Hashtag wedding idea and this turnned everything tradional to modern and one of the new era wedding, <br/> Without any Doubt Go for it. <br/> As name says i got my <span class="highlight">"Memories 4 Eternity"</span></i>
+									</blockquote>
+								</div>
+							</li>	
+						</ul>
+					</div>
+				</div>
+				<!-- END SLIDER -->
+            </div>
+        </div>
+    </section>
+
+	<section id="feedback-controls" class="section light">
+		<div class="container">
+			<div class="col-md-10 col-md-offset-1">
+			<!-- BEGIN CONTROLS -->
+						<div class="flex-manual">
+							<div class="col-xs-12 col-sm-4 wrap">
+								<div class="switch flex-active">
+									<p>
+										<span class="highlight">#Memory</span> Package<br/> <span class="highlight">Testimonial</span>
+									</p>
+								</div>
+							</div>
+											
+							<div class="col-xs-12 col-sm-4 wrap">
+								<div class="switch pull-left">
+									<p>
+										<span class="highlight">#Memory Plus</span> Package<br/><span class="highlight">Testimonial</span>
+									</p>
+								</div>
+							</div>
+											
+							<div class="col-xs-12 col-sm-4 wrap">
+								<div class="switch">
+									<p>
+										<span class="highlight">#Premium Plus</span> Package<br/><span class="highlight">Testimonial</span>
+									</p>
+								</div>
+							</div>
+						</div>
+			<!-- END CONTROLS -->
+			</div>
+		</div>
+	</section>
+	    
+    <section id="guarantee" class="long-block light">
+        <div class="container">
+            <div class="col-md-12 col-lg-9">
+				<i class="icon icon-seo-icons-24 pull-left"></i>
+                <article class="pull-left">
+                    <h2><strong>Love Our Package -</strong> <b>Claim a Free Gift!!!</b></h2>
+                    <p class="thin">Get in touch with us over whatsapp and share your unique code found on our product</p>
+                </article>
+            </div>
+			
+            <div class="col-md-12 col-lg-3">
+         <!--       <a href="hthttp://themeforest.net/item/startuply-responsive-multipurpose-landing-page/7953388class="btn btn-default">Get this template</a> -->
+            </div>
+        </div>
+    </section>
+    
+    <footer id="footer" class="footer light">
+        <div class="container">
+            <div class="footer-content row">
+                <div class="col-sm-4">
+                    <div class="logo-wrapper">
+                        <p><strong>About US</strong></p>
+                    </div>
+                    <ul>
+                        <li>
+                            <a href="AboutUs.html">#Memories4Eternity.</a>
+                        </li>
+                        <li>
+                            <a href="Policy.html">Policies</a>
+                        </li>
+                        <li>
+                            <a href="Partner.html">Banquet Partner</a>
+                        </li>
+                        <li>
+                            <a href="Distributor.html">Distributor</a>
+                        </li>
+                        <li>
+                            <a href="Press.html">Press</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-5 social-wrap">
+                    <div class="footer-title">Social Networks</div>
+                     <ul class="list-inline socials">
+                        <li><a href="#"><span class="icon icon-socialmedia-07"></span></a></li>
+                        <li><a href="#"><span class="icon icon-socialmedia-08"></span></a></li>
+                        <li><a href="#"><span class="icon icon-socialmedia-26"></span></a></li>
+                        </ul>
+                </div>
+                <div class="col-sm-3">
+                    <div class="footer-title">Our Contacts</div>
+                    <ul class="list-unstyled">
+                        <li>
+                            <span class="icon icon-chat-messages-14"></span> 
+                            <a href="mailto:jatinjainhuf@gmail.com">jatinjainhuf@gmail.com</a>
+                        </li>
+                        <li>
+                            <span class="icon icon-seo-icons-34"></span> 
+                            New Delhi, India 
+                        </li>
+                        <li>
+                            <span class="icon icon-seo-icons-17"></span>
+                            +91 9891865050<a href="tel:9891865050"> <br/> Click to Call</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">#Memories4Eternity. All rights reserved.</div>
+    </footer>
+    
+    <div class="back-to-top"><i class="fa fa-angle-up fa-3x"></i></div>
+    
+    <!--[if lt IE 9]>
+        <script type="text/javascript" src="assets/js/jquery-1.11.0.min.js?ver=1"></script>
+    <![endif]-->  
+    <!--[if (gte IE 9) | (!IE)]><!-->  
+        <script type="text/javascript" src="assets/js/jquery-2.1.0.min.js?ver=1"></script>
+    <!--<![endif]-->  
+    
+    <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.flexslider-min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.nav.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.appear.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.plugin.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.countdown.js"></script>
+    <script type="text/javascript" src="assets/js/waypoints.min.js"></script>
+    <script type="text/javascript" src="assets/js/waypoints-sticky.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.validate.js"></script>
+    <script type="text/javascript" src="assets/js/toastr.min.js"></script>
+    <script type="text/javascript" src="assets/js/headhesive.min.js"></script>
+	<script type="text/javascript" src="assets/mailchimp/js/mailing-list.js"></script>
+    <script type="text/javascript" src="assets/js/scripts.js"></script>
+</body>
+</html>
